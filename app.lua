@@ -1,0 +1,3 @@
+--configure gpio
+--configure int handler / or timer
+--configure email / sms
